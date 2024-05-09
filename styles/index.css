@@ -1,0 +1,265 @@
+body {
+    margin-top: 41px;
+    margin-left: 52px;
+    margin-bottom: 193px;
+}
+
+/* header */
+
+nav,
+.logo {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+header,
+p {
+    display: inline-block;
+}
+
+.mtavari {
+    width: 115px;
+    height: 34px;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31.2px;
+    color: #4E6FAE;
+    margin-left: 60px;
+}
+
+.siaxle {
+    width: 150px;
+    height: 34px;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31.2px;
+    color: #8d81ff;
+    margin-left: 87px;
+}
+
+.kont {
+    width: 133px;
+    height: 34px;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31.2px;
+    color: #8d81ff;
+    margin-left: 81px;
+}
+
+/* main */
+
+.div26 {
+    height: 50px;
+    width: 50px;
+    background-color: #5012D5;
+    display: block;
+    margin-top: 44px;
+}
+
+.date26 {
+    color: #84FF81;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 27.6px;
+    font-family: Helvetica;
+    padding-top: 25%;
+    padding-left: 25%;
+}
+
+.maisi26 {
+    font-family: 'FiraGO';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    color: #8D81FF;
+    padding-top: 18px;
+}
+
+.web-gverdi {
+    font-family: 'FiraGO';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    color: #4E6FAE;
+    padding-top: 8px;
+}
+
+.pic-1 {
+    padding-top: 13px;
+    padding-right: 66px;
+}
+
+.section-1 {
+    display: inline-block;
+    width: 778px;
+    height: 281px;
+}
+
+.p1,
+.p2,
+.p3,
+.p4 {
+    font-family: 'FiraGO';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: #4E6FAE;
+}
+
+.p1 {
+    margin-bottom: 10px;
+}
+
+.p2 {
+    margin-bottom: 10px;
+}
+
+.p4 {
+    list-style: decimal;
+    margin-left: 16px;
+}
+
+.div27 {
+    height: 50px;
+    width: 50px;
+    background-color: #5012D5;
+    display: block;
+    margin-top: 44px;
+}
+
+.date27 {
+    color: #84FF81;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 27.6px;
+    font-family: Helvetica;
+    padding-top: 25%;
+    padding-left: 25%;
+}
+
+.maisi27 {
+    font-family: 'FiraGO';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    color: #8D81FF;
+    padding-top: 18px;
+}
+
+.vin-arian {
+    font-family: 'FiraGO';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    color: #4E6FAE;
+    padding-top: 8px;
+}
+
+.pic-2 {
+    padding-top: 13px;
+}
+
+.pp {
+    font-family: 'FiraGO';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: #4E6FAE;
+    display: inline-block;
+    width: 778px;
+    height: 280px;
+    vertical-align: bottom;
+    margin-left: 66px;
+
+}
+
+.div28 {
+    height: 50px;
+    width: 50px;
+    background-color: #5012D5;
+    display: block;
+    margin-top: 44px;
+}
+
+.date28 {
+    color: #84FF81;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 27.6px;
+    font-family: Helvetica;
+    padding-top: 25%;
+    padding-left: 25%;
+}
+
+
+.maisi28 {
+    font-family: 'FiraGO';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    color: #8D81FF;
+    padding-top: 18px;
+}
+
+.safudzlebi {
+    font-family: 'FiraGO';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    color: #4E6FAE;
+    padding-top: 8px;
+    padding-bottom: 13px;
+}
+
+.pp2 {
+    font-family: 'FiraGO';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: #4E6FAE;
+    width: 1021px;
+    height: 148px;
+    margin-top: 32px;
+}
+
+/* footer */
+
+.line {
+    position: absolute;
+    width: 48px;
+    height: 0px;
+    border: 2px solid #5012D5;
+    transform: rotate(90deg);
+}
+
+footer {
+    margin-top: 145px;
+}
+
+#facebook {
+    display: inline-block;
+}
+
+.line {
+    margin-left: 13px;
+    margin-top: -27px;
+}
+
+#line {
+    display: inline-block;
+}
+
+#youtube {
+    display: inline-block;
+    margin-left: 76px;
+}

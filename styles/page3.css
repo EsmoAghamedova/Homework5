@@ -1,0 +1,186 @@
+body {
+    margin-top: 41px;
+    margin-bottom: 193px;
+}
+
+.background {
+    position: absolute;
+    width: 1660px;
+    height: 735px;
+    background: #E7E7E7;
+    margin-top: 30px;
+}
+
+/* header */
+
+header {
+    margin-left: 52px;
+}
+
+nav,
+.logo {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+header,
+p {
+    display: inline-block;
+}
+
+.mtavari {
+    width: 115px;
+    height: 34px;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31.2px;
+    color: #8d81ff;
+    margin-left: 60px;
+}
+
+.siaxle {
+    width: 150px;
+    height: 34px;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31.2px;
+    color: #8d81ff;
+    margin-left: 87px;
+}
+
+.kont {
+    width: 133px;
+    height: 34px;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31.2px;
+    color: #4E6FAE;
+    margin-left: 81px;
+}
+
+/* main */
+
+.main {
+    display: inline-block;
+    margin-left: 162px;
+    margin-top: 93px;
+    vertical-align: top;
+}
+
+.map {
+    display: inline-block;
+    margin-top: 93px;
+}
+
+.sakontaqto {
+    width: 474px;
+    height: 34px;
+    font-family: 'Helvetica Neue';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 44px;
+    color: #4E6FAE;
+}
+
+.misamarti {
+    margin-top: 27px;
+    /* position: absolute; */
+    width: 307px;
+    height: 24px;
+    /* left: calc(50% - 307px/2 + 0.5px); */
+    top: 489px;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    color: #7E8898;
+    display: block;
+}
+
+.misamarti_ {
+    color: black;
+}
+
+.tel {
+    /* position: absolute; */
+    width: 217px;
+    height: 34px;
+    /* left: calc(50% - 217px/2 + 0.5px); */
+    top: 536px;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    color: #7E8898;
+    display: block;
+    margin-top: 23px;
+}
+
+.tel_ {
+    color: black;
+}
+
+.mail {
+    /* position: absolute; */
+    width: 434px;
+    height: 34px;
+    /* left: calc(50% - 434px/2); */
+    top: 581px;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    display: block;
+    color: #7E8898;
+    margin-top: 11px;
+}
+
+.mail_ {
+    color: black;
+}
+
+
+/* footer */
+
+.line {
+    position: absolute;
+    width: 48px;
+    height: 0px;
+    border: 2px solid #5012D5;
+    transform: rotate(90deg);
+}
+
+footer {
+    margin-top: 840px;
+    margin-left: 96px;
+}
+
+#facebook {
+    display: inline-block;
+}
+
+.line {
+    margin-left: 13px;
+    margin-top: -27px;
+}
+
+#line {
+    display: inline-block;
+}
+
+#youtube {
+    display: inline-block;
+    margin-left: 76px;
+}
+
+/* 
+
+position: absolute;
+width: 307px;
+height: 24px;
+
+font-family: 'Helvetica Neue LT GEO';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #7E8898; */

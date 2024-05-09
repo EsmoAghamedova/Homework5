@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Poetsen+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cute+Font&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:ital,wght@0,200..900;1,200..900&display=swap');
+/* Page 1 */
+
+@import url('https://fonts.googleapis.com/css2?family=Potta+One&display=swap');
+/* Page 2 */
+
+@import url('https://fonts.googleapis.com/css2?family=Black+And+White+Picture&display=swap');
+/* Page 3 */
+
+
+
+
+/* Page 1 */
+header p {
+    font-family: "Poetsen One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.p1,
+.p2,
+.p3,
+li {
+    font-family: "GeoPerf";
+}
+
+.pp {
+    font-family: "3D Unicode";
+    font-weight: 700;
+}
+
+.pp2 {
+    font-family: "3D Unicode";
+}
+
+.date26,
+.maisi26,
+.date27,
+.maisi27,
+.date28,
+.maisi28 {
+    font-family: "Cute Font", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.web-gverdi {
+    font-family: "Source Code Pro", monospace;
+}
+
+.vin-arian {
+    font-family: "Source Code Pro", monospace;
+}
+
+.safudzlebi {
+    font-family: "Source Code Pro", monospace;
+}
+
+
+
+
+/* Page 2 */
+
+.siaxleebi {
+    font-family: "Potta One", system-ui;
+}
+
+.siaxleebi2 {
+    font-family: "Potta One", system-ui;
+}
+
+.container-1 {
+    font-family: "GeoPerf";
+}
+
+.container-2 {
+    font-family: "GeoPerf";
+}
+
+
+
+
+/* Page 3 */
+
+.sakontaqto {
+    font-family: "Black And White Picture", system-ui;
+}
+
+.misamarti {
+    font-family: "Black And White Picture", system-ui;
+}
+
+.tel {
+    font-family: "Black And White Picture", system-ui;
+}
+
+.mail {
+    font-family: "Black And White Picture", system-ui;
+}
